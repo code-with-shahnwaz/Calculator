@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 100%;
+    margin-left: 45%;
+    margin-top: 10%;
+
+}
+form{
+    background-color: lightblue;
+    width:230px;
+    height: auto;
+    margin: 4px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid blue;
+    margin: 5px;
+    
+
+}
+fieldset{
+    border:none;
+    border-radius: 10px;
+    width: 225px;
+}
+.ss{
+     width: 224px;
+}
+input{
+    width: 50px;
+    height: 50px;
+    margin:2px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+.equal{
+    width: 100px;
+}
